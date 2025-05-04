@@ -2,8 +2,7 @@
 
 ## Project Description
 
-User Car Price Prediction is a Python project that predicts the price of a used car based on its features model year, mileage, brand, 
-reported accidents, transmission, exterior color, fuel type, using Neural Network models. 
+User Car Price Prediction is a Python project that predicts the price of a used car based on features such as model year, mileage, brand, reported accidents, transmission type, exterior color, and fuel type using neural network models.
 
 ## Setup
 
