@@ -9,6 +9,7 @@ User Car Price Prediction is a Python project that predicts the price of a used 
 1. Clone the repository from this link: https://github.com/jiwenofu/Neural-Network-Project.git
 
 2. Make sure you have the following libraries installed:
+* os
 * tensorflow
 * matplotlib
 * pandas
@@ -19,11 +20,11 @@ User Car Price Prediction is a Python project that predicts the price of a used 
 
 Run all the cells in the Jupyter notebook named ANN_Project.ipynb, which is located in the repository.
 
-## Blogpost
+## Blog Post
 
-The blogpost about this project can be accessed through this link:
+The blog post about this project can be accessed through this link:
 
-## Explanation of the Figures Used in the Blogpost:
+## Explanation of the Figures Used in the Blog Post:
 
 Figure 1:
 
