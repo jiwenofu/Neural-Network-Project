@@ -22,7 +22,7 @@ Run all the cells in the Jupyter notebook named ANN_Project.ipynb, which is loca
 
 ## Blog Post
 
-The blog post about this project can be accessed through this link:
+The blog post for this project is available in the PDF file included in this repository.
 
 ## Explanation of the Figures Used in the Blog Post:
 
