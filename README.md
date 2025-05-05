@@ -4,6 +4,10 @@
 
 User Car Price Prediction is a Python project that predicts the price of a used car based on features such as model year, mileage, brand, reported accidents, transmission type, exterior color, and fuel type using neural network models.
 
+## Data 
+
+The link for the dataset we used in this project can be found here: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset 
+
 ## Setup
 
 1. Clone the repository from this link: https://github.com/jiwenofu/Neural-Network-Project.git
